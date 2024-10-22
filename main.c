@@ -22,6 +22,6 @@ int main(int argc, char** argv) {
         return 1;
     }
 
-    printf("%d\n", x + y);
+    printf("%lld\n", x + y);
     return 0;
 }
